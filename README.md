@@ -44,10 +44,10 @@ Make sure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/emr-appointment-system.git
+git clone https://github.com/Faisal-rabani/Appointment-Management.git
 
 # Navigate to project directory
-cd emr-appointment-system
+cd Appointment-Management
 ```
 
 ### 2. Backend Setup (Flask API)
@@ -433,7 +433,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Faisal Rabani** - *Initial work* - [Faisal-rabani](https://github.com/Faisal-rabani)
 
 ## 🙏 Acknowledgments
 
