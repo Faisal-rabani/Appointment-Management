@@ -171,7 +171,7 @@ const AppointmentManagementView = ( { user, onSignOut } ) => {
             case 'patients':
                 return (
                     <div className="p-6">
-                        <h2 className="text-2xl font-bold text-gray-900 mb-4">Patients</h2>
+                        <h2 className="text-2xl font-bold bg-red-200 text-gray-900 mb-4">Patients</h2>
                         <p className="text-gray-600">Patient management coming soon...</p>
                     </div>
                 )
